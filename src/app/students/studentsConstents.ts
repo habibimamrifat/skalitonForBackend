@@ -1,0 +1,1 @@
+export const studentsSearchField = ['name.firstName', 'email', 'gurdian'];
